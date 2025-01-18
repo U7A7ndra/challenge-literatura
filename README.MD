@@ -13,7 +13,7 @@
 
 ### Requisitos
 Para ejecutar esta API, necesitas tener lo siguiente:
-- **Java 11 o superior**.
+- **Java 17 o superior**.
 - **MySQL** 8 o superior.
 - **Maven** para la gestión de dependencias y la construcción del proyecto.
 
